@@ -1,0 +1,7 @@
+{
+  "description": "A magical 3D interactive mushroom that explodes into floating hearts based on user gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
